@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacuzzi-ai
-- 👀 I’m interested in Software development and AI and making a difference in the way our works by innovating in these fields 
+- 👀 I’m interested in Software development and AI and making a difference in the way our world works by innovating in these fields 
 - 🌱 I’m currently learning Mysql,MongoDB,Javascript,.NET frameworks
 ...
 - 💞️ I’m looking to collaborate on github ...
